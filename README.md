@@ -1,2 +1,2 @@
 # gofsm
-A simple FSM functionality
+A simple FSM package
