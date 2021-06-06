@@ -1,3 +1,3 @@
-module github.com/oren12321/gofsm
+module github.com/Pixellot/gofsm
 
 go 1.15
